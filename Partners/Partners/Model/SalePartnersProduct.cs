@@ -19,3 +19,4 @@ public partial class SalePartnersProduct
 
     public virtual Partner? SaleProductFkNavigation { get; set; }
 }
+//asfasfasdfasdfsdfdsf
